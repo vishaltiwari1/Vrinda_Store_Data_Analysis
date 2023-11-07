@@ -4,7 +4,7 @@
 The Vrinda Store aimed to create an annual sales report for the year 2022, providing valuable insights for the owner to understand their customer base and strategies for sales growth in 2023.
 
 # Dataset Used:
-The dataset utilized for this analysis is the "Vrinda Store Data."
+The dataset utilized for this analysis is the <a href="https://github.com/Krishnkumar542/Vrinda-Store-Data-Analysis/blob/main/Vrinda%20Store%20Data.xlsx">"Vrinda Store Data."</a>
 
 # Questions (KPIs):
 
