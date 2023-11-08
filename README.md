@@ -30,7 +30,7 @@ The following steps were taken to accomplish the project objectives:
 ## **Project Insight:**
   Based on the analysis, the following key insights were gained:
 
-- Women customers displayed a higher inclination to purchase products compared to men, accounting for approximately 65% of the customer base.
+- Women customers displayed a higher inclination to purchase products compared to men, accounting for approximately 64% of the customer base.
 - The top three states contributing to product purchases were Maharashtra, Karnataka, and Uttar Pradesh.
 - The age group comprising adults aged 30-49 years contributed the most to sales, accounting for approximately 50% of total purchases.
 - Amazon, Flipkart, and Myntra were the channels from which customers placed the maximum number of product orders.
